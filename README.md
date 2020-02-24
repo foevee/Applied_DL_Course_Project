@@ -1,4 +1,4 @@
-# AppliedDeepLearning
+# Applied Deep Learning
 COMSW 4995 Applied Deep Learning
 
 Convolution Neural Network for image identification
