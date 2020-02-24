@@ -1,12 +1,11 @@
 CLASSES = {
-  0: 'class0',
-  1: 'class1',
-  2: 'class2',
-  3: 'class3',
+  0: 'alma',
+  1: 'hamiton',
+  2: 'lion',
+  3: 'thinker',
 };
 
-const MODEL_PATH =
-    'model.json';
+const MODEL_PATH = 'model.json';
 
 const IMAGE_SIZE = 192;
 const TOPK_PREDICTIONS = 4;
@@ -24,15 +23,15 @@ const demo = async () => {
 
   status('');
 
-  // Make a prediction through the locally hosted cat.jpg.
-  const catElement = document.getElementById('cat');
-  if (catElement.complete && catElement.naturalHeight !== 0) {
-    predict(catElement);
-    catElement.style.display = '';
+  // Make a prediction through the locally hosted alma.jpg.
+  const landmarkElement = document.getElementById('landmark');
+  if (landmarkElement.complete && landmarkElement.naturalHeight !== 0) {
+    predict(landmarkElement);
+    landmarkElement.style.display = '';
   } else {
-    catElement.onload = () => {
-      predict(catElement);
-      catElement.style.display = '';
+    landmarkElement.onload = () => {
+      predict(landmarkElement);
+      landmarkElement.style.display = '';
     }
   }
 
