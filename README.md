@@ -1,5 +1,6 @@
 # Applied Deep Learning
 COMSW 4995 Applied Deep Learning
+### Assigment 2
 
 Convolution Neural Network for image identification
 1. Flowers
@@ -18,3 +19,7 @@ Use Tensorflow.js to visualize the model:
 
  - Open a browser (point the URL to localhost:8888). Your webpage should appear.
  If everything is working, you could upload a picture and see model prediction result.
+
+When you upload your Columbia landmark image, you should see the web page showing the prediction (out of 4 classes) and its confidence score. The following is an example.
+
+<img src="example_page.png", style="float: left; margin-right: 10px;" />
