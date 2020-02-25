@@ -22,4 +22,4 @@ Use Tensorflow.js to visualize the model:
 
 When you upload your Columbia landmark image, you should see the web page showing the prediction (out of 4 classes) and its confidence score. The following is an example.
 
-![example]('example_page.png' "Example")
+![example]('https://github.com/foevee/foevee.github.io/blob/master/example_page.png' "Example")
