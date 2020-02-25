@@ -22,4 +22,7 @@ Use Tensorflow.js to visualize the model:
 
 When you upload your Columbia landmark image, you should see the web page showing the prediction (out of 4 classes) and its confidence score. The following is an example.
 
-<img src="example_page.png" alt="example page" width="400"/>
+<p align="center">
+  <img src="example_page.png" alt="example page" width="400"/>
+</p>
+
