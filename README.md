@@ -1,6 +1,6 @@
 # Applied Deep Learning
 COMSW 4995 Applied Deep Learning
-### Assigment 2
+### Project 2
 
 Convolution Neural Network for image identification
 1. Flowers
