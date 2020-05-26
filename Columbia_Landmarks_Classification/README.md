@@ -1,6 +1,5 @@
-# Applied Deep Learning
+## Flower and Columbia Landmarks Image Classification
 COMSW 4995 Applied Deep Learning
-### Project 2
 
 Convolution Neural Network for image identification
 1. Flowers
