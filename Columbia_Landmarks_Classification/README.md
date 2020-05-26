@@ -1,5 +1,4 @@
-## Flower and Columbia Landmarks Image Classification
-COMSW 4995 Applied Deep Learning
+## Flowers and Columbia Landmarks Image Classification
 
 Convolution Neural Network for image identification
 1. Flowers
